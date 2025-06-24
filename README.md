@@ -1,3 +1,1 @@
-Code for debiasing group lasso logistic regression estimators and constructing confidence intervals. Numerical validation of debiasing framework proposed by Caner (2021) provided with appropriate QQ plots and power analysis.
-
-Interpretable subnetwork importance scores constructed for classification tasks in networks.
+Code for debiasing group lasso logistic regression (GLLR) estimators and constructing confidence intervals. Numerical validation of debiasing framework proposed by Caner (2021) provided with appropriate QQ plots and power analysis. Interpretable subnetwork importance scores constructed for binary classification of networks using a GLLR approach. Small toy datasets are examined.
